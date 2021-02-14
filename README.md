@@ -2,10 +2,6 @@
 
 
 
-computer).
-```bash
-npm install
-npm start
 ```
 Profit!
 # For simple users
