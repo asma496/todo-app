@@ -1,8 +1,6 @@
 
 
 
-_Don't upset puppy_
-![Sad puppy](https://raw.githubusercontent.com/snovruslan/react-todo-app/master/docs/static/media/sad_dog.54335fd0.png)
 
 # Usage for devs
 Clone this repository by entering in your command line the folowing text:
