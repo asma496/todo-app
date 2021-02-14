@@ -1,5 +1,4 @@
-<!-- # React.js TODO
-Simple React.js web-application wit minimalistic design.
+ign.
 ## About this app
 This web application was made with [React.js](https://reactjs.org) open source library v.16.9 (latest at this moment). I used npm package called _create-react-app_.
 
