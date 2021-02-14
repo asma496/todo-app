@@ -1,9 +1,5 @@
 
 
-This app has a very simple UI:
-- One input field
-- One list with a tasks
-- And __sad__ puppy if you don't have any tasks :(
 
 _Don't upset puppy_
 ![Sad puppy](https://raw.githubusercontent.com/snovruslan/react-todo-app/master/docs/static/media/sad_dog.54335fd0.png)
