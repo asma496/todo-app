@@ -1,0 +1,15 @@
+.task-list {
+    list-style: none;
+    padding: 0;
+    text-align: justify;
+    width: 35vw;
+    max-width: 50vw;
+}
+
+
+@media (max-width: 640px) {
+    .task-list {
+        width: 85vw;
+        max-width: 95vw;
+    }
+}
